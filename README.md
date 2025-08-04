@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Peter McSwiggan  
 
 💻 Aspiring **Cloud Engineer / DevOps Engineer**  
 🌍 Based in the UK / N.Ireland | 📧 p.mcswiggan@hotmail.com 
